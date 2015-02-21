@@ -21,9 +21,13 @@
 *.dylib
 
 # Executables
-*.exe
 *.out
 *.app
 *.i*86
 *.x86_64
-*.hex
+xboot/xboot-loader/obj
+xboot/xboot-loader/bin/Debug
+xboot/xboot-loader/bin/Release
+xboot/xboot-BT/xboot/Debug
+*.suo
+*.atsuo
