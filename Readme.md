@@ -1,4 +1,5 @@
-![TinyG board](http://akb77.com/g/files/media/image/tinyg2.jpg)
+![TinyG board with BT](http://akb77.com/g/files/media/image/tinyg2.jpg)
+![TinyG board with USB](http://akb77.com/g/files/media/image/tinyg3.jpg)
 
 Software from https://github.com/synthetos/TinyG
 
